@@ -14,7 +14,7 @@ mkdir lib && mkdir include
 
 4. Put *include* directories of `SDL2`, `SDL2_image`, `SDL2_ttf`, `SDL2_mixer` in the **include** directory.
 
-5. Compile the game and run the game :rocket:
+5. Compile and run the game :rocket:
 ```bash
 make && ./play
 ```
