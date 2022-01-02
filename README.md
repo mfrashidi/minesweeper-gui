@@ -1,5 +1,6 @@
 # Minesweeper
 This game is completely written in C++ with the help of the [SBDL](https://github.com/SBU-CE/SBDL) and [SDL](https://github.com/libsdl-org/SDL) for the graphic part.
+> [Commnand-Line version](https://github.com/mfrashidi/minesweeper)
 ## Installation
 
 1. Clone the repository
