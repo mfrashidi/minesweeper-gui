@@ -1,4 +1,4 @@
-![Poster](https://repository-images.githubusercontent.com/443270897/616711a9-cccf-417f-98eb-93da7f739564)
+![Poster](https://repository-images.githubusercontent.com/443270897/52a64765-b81b-4c96-ad5e-fe237de39a41)
 # Minesweeper
 This game is completely written in C++ with the help of the [SBDL](https://github.com/SBU-CE/SBDL) and [SDL](https://github.com/libsdl-org/SDL) libraries for the graphic part.
 > [Commnand-Line version](https://github.com/mfrashidi/minesweeper)
@@ -20,6 +20,18 @@ mkdir lib && mkdir include
 ```bash
 make && ./play
 ```
+## Features
+- Three basic modes + Custom mode
+- Unlimited Users
+- Unlimited save slots for each user
+- Encrypted save slots to prevent cheating :lock:
+- Leaderboard
+## Game modes
+
+- **Easy:** 5*5 table, 4 bombs
+- **Medium:** 12*12 table, 28 bombs
+- **Hard:** 20*20 table, 96 bombs
+- **Custom:** 5\*5-20\*20 table, 1-399 bombs, Set time limit for the game
 
 ## TODO :white_check_mark:
 - [ ] Add other modes to the game
