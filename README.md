@@ -1,4 +1,5 @@
 ![Poster](assets/img/poster.png)
+[Video Link](https://www.aparat.com/v/Mc2JN)
 # Minesweeper
 This game is completely written in C++ with the help of the [SBDL](https://github.com/SBU-CE/SBDL) and [SDL](https://github.com/libsdl-org/SDL) libraries for the graphic part.
 > [Commnand-Line version](https://github.com/mfrashidi/minesweeper)
